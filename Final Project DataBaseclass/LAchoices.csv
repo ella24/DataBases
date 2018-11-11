@@ -1,0 +1,161 @@
+critic_cn,critic_name,critic_org,movie_dir,movie_name,movie_rank,movie_yr,genre,dir_country
+Mexico,Arturo Aguilar,Rolling Stone Mexico,Wong Kar-wai,In the Mood for Love,1,2000,drama and romance,China
+Mexico,Arturo Aguilar,Rolling Stone Mexico,David Lynch,Mulholland Drive,2,2001,drama mystery and thriller,USA
+Mexico,Arturo Aguilar,Rolling Stone Mexico,Christopher Nolan,Inception,3,2010,action adventure sci-Fi and thriller,UK
+Mexico,Arturo Aguilar,Rolling Stone Mexico,Guillermo Del Toro,Pan's Labyrinth,4,2006,drama fantasy and war,Mexico
+Mexico,Arturo Aguilar,Rolling Stone Mexico,Michael Haneke,Caché,5,2005,drama mystery and thriller,Germany
+Mexico,Arturo Aguilar,Rolling Stone Mexico,Werner Herzog,Grizzly Man,6,2005,documentary and biography,Germany
+Mexico,Arturo Aguilar,Rolling Stone Mexico,Cristian Mungiu,"4 Months, 3 Weeks & 2 Days",7,2007,drama,Romania
+Mexico,Arturo Aguilar,Rolling Stone Mexico,Leos Carax,Holy Motors,8,2012,drama and fantasy,France
+Mexico,Arturo Aguilar,Rolling Stone Mexico,Claude Lanzmann,The Last of the Unjust,9,2013,documentary and history,France
+Mexico,Arturo Aguilar,Rolling Stone Mexico,Paul Thomas Anderson,There Will Be Blood,10,2007,drama,USA
+Brazil,Ana Maria Bahiana,Freelance film critic,Paul Thomas Anderson,There Will Be Blood,1,2007,drama,USA
+Brazil,Ana Maria Bahiana,Freelance film critic,David Lynch,Mulholland Drive,2,2001,drama mystery and thriller,USA
+Brazil,Ana Maria Bahiana,Freelance film critic,Alfonso Cuarón,Children of Men,3,2006,drama sci-fi and thriller,Mexico
+Brazil,Ana Maria Bahiana,Freelance film critic,Fernando Meirelles and Kátia Lund,City of God,4,2002,crime and drama,Brazil
+Brazil,Ana Maria Bahiana,Freelance film critic,Guillermo Del Toro,Pan's Labyrinth,5,2006,drama fantasy and war,Mexico
+Brazil,Ana Maria Bahiana,Freelance film critic,Christopher Nolan,Inception,6,2010,action adventure sci-Fi and thriller,UK
+Brazil,Ana Maria Bahiana,Freelance film critic,Brad Bird,The Incredibles,7,2004, animation action adventure and family,USA
+Brazil,Ana Maria Bahiana,Freelance film critic,Alejandro González Iñárritu,Birdman,8,2014,comedy and drama,Mexico
+Brazil,Ana Maria Bahiana,Freelance film critic,Joel and Ethan Coen,No Country For Old Men,9,2007,crime drama and thriller,USA
+Brazil,Ana Maria Bahiana,Freelance film critic,Ang Lee,Brokeback Mountain,10,2005,drama and romance,Taiwan
+Argentina,Diego Batlle,La Nacion,Andrew Stanton,WALL-E,1,2008,animation adventure family and sci-fi,USA
+Argentina,Diego Batlle,La Nacion,Wong Kar-wai,In the Mood for Love,2,2000,drama and romance,China
+Argentina,Diego Batlle,La Nacion,Hayao Miyazaki,Spirited Away,3,2001,animation adventure family fantasy and mystery,Japan
+Argentina,Diego Batlle,La Nacion,Richard Linklater,Boyhood,4,2014,drama,USA
+Argentina,Diego Batlle,La Nacion,Nanni Moretti,The Son's Room,5,2001,drama,Italy
+Argentina,Diego Batlle,La Nacion,Mariano Llinás,Extraordinary Stories,6,2008,drama and mystery,Argentina
+Argentina,Diego Batlle,La Nacion,David Lynch,Mulholland Drive,7,2001,drama mystery and thriller,USA
+Argentina,Diego Batlle,La Nacion,David Fincher,The Social Network,8,2010,biography and drama,USA
+Argentina,Diego Batlle,La Nacion,Gus Van Sant,Elephant,9,2003,crime drama and thriller,USA
+Argentina,Diego Batlle,La Nacion,Apichatpong Weerasethakul,Uncle Boonmee Who Can Recall His Past Lives,10,2010,drama and fantasy,Thailand
+Cuba,Luciano Castillo,Cinemateca de Cuba,Michael Haneke,The White Ribbon,1,2009,drama history mystery and thriller,Germany
+Cuba,Luciano Castillo,Cinemateca de Cuba,Wong Kar-wai,In the Mood for Love,2,2000,drama and romance,China
+Cuba,Luciano Castillo,Cinemateca de Cuba,Kim Ki-duk,"Spring, Summer, Fall, Winter…and Spring",3,2003,drama and romance,Korea
+Cuba,Luciano Castillo,Cinemateca de Cuba,Lars von Trier,Melancholia,4,2011,drama and sci-fi,Denmark
+Cuba,Luciano Castillo,Cinemateca de Cuba,Gus Van Sant,Elephant,5,2003,crime drama and thriller,USA
+Cuba,Luciano Castillo,Cinemateca de Cuba,Aleksandr Sokurov,Russian Ark,6,2002,drama fantasy history mystery,Rusia
+Cuba,Luciano Castillo,Cinemateca de Cuba,Fernando Meirelles and Kátia Lund,City of God,7,2002,crime and drama,Brazil
+Cuba,Luciano Castillo,Cinemateca de Cuba,Jacques Audiard,A Prophet,8,2009,crime and drama,France
+Cuba,Luciano Castillo,Cinemateca de Cuba,Cristian Mungiu,"4 Months, 3 Weeks & 2 Days",9,2007,drama,Romania
+Cuba,Luciano Castillo,Cinemateca de Cuba,Pete Docter,Inside Out,10,2015,animation adventure comedy drama family and fantasy,USA
+Colombia,Samuel Castro,El Colombiano,Juan José Campanella,The Secret in Their Eyes,1,2009,crime drama mystery and thriller,Argentina
+Colombia,Samuel Castro,El Colombiano,Richard Linklater,Before Sunset,2,2004,drama and romance,USA
+Colombia,Samuel Castro,El Colombiano,Michel Gondry,Eternal Sunshine of the Spotless Mind,3,2004,drama romance and sci-fi,France
+Colombia,Samuel Castro,El Colombiano,Brad Bird and Jan Pinkava,Ratatouille,4,2007,animation adventure and comedy,USA 
+Colombia,Samuel Castro,El Colombiano,Sarah Polley,Stories We Tell,5,2012,documentary,Canada
+Colombia,Samuel Castro,El Colombiano,Guillermo Del Toro,Pan's Labyrinth,6,2006,drama fantasy and war,Mexico
+Colombia,Samuel Castro,El Colombiano,Alejandro González Iñárritu,Amores Perros,7,2000,drama and thriller,Mexico
+Colombia,Samuel Castro,El Colombiano,Asghar Farhadi,A Separation,8,2011,drama and mystery,Iran
+Colombia,Samuel Castro,El Colombiano,Steven Spielberg,Minority Report,9,2002,action adventure and crime,USA
+Colombia,Samuel Castro,El Colombiano,Baz Luhrmann,Moulin Rouge!,10,2001,drama musical and romance,Australia
+Cuba,Mario Espinosa,Cinemateca de Cuba,Roy Andersson,A Pigeon Sat on a Branch Reflecting on Existence,1,2014,comedy,Sweden
+Cuba,Mario Espinosa,Cinemateca de Cuba,Joshua Oppenheimer,The Act of Killing,2,2012,documentary and crime,USA
+Cuba,Mario Espinosa,Cinemateca de Cuba,Yorgos Lanthimos,Dogtooth,3,2009,drama,Greece
+Cuba,Mario Espinosa,Cinemateca de Cuba,Andrzej Wajda,Katyn,4,2007,drama history and war,Poland
+Cuba,Mario Espinosa,Cinemateca de Cuba,Kim Ki-duk,3-Iron,5,2004,drama and romance,South Korea
+Cuba,Mario Espinosa,Cinemateca de Cuba,Michael Haneke,Caché,6,2005,drama mystery and thriller,Germany
+Cuba,Mario Espinosa,Cinemateca de Cuba,David Lynch,Mulholland Drive,7,2001,drama mystery and thriller,USA
+Cuba,Mario Espinosa,Cinemateca de Cuba,Ari Folman,The Congress,8,2013,animation drama and sci-fi,Israel 
+Cuba,Mario Espinosa,Cinemateca de Cuba,Park Chan-wook,Sympathy for Mr Vengeance,9,2002,action and drama,South Korea
+Cuba,Mario Espinosa,Cinemateca de Cuba,Charlie Kaufman,"Synecdoche, New York",10,2008,comedy and drama,USA
+Argentina,Javier Porta Fouz,La Nacion,Clint Eastwood,Jersey Boys,1,2014, biography drama and music,USA
+Argentina,Javier Porta Fouz,La Nacion,Baz Luhrmann,Moulin Rouge!,2,2001,drama musical and romance,Australia
+Argentina,Javier Porta Fouz,La Nacion,Fabián Bielinsky,Nine Queens,3,2000, crime drama and thriller,Argentina
+Argentina,Javier Porta Fouz,La Nacion,Nanni Moretti,Mia Madre,4,2015,drama,Italy
+Argentina,Javier Porta Fouz,La Nacion,Hong Sang-soo,"Right Now, Wrong Then",5,2015,drama,Korea
+Argentina,Javier Porta Fouz,La Nacion,Lee Unkrich,Toy Story 3,6,2010, animation adventure and comedy,USA 
+Argentina,Javier Porta Fouz,La Nacion,George Miller,Mad Max: Fury Road,7,2015,action adventure sci-fi,Australia
+Argentina,Javier Porta Fouz,La Nacion,Hayao Miyazaki,Spirited Away,8,2001,animation adventure family fantasy and mystery,Japan
+Argentina,Javier Porta Fouz,La Nacion,Greg Mottola,Adventureland,9,2009,comedy drama and romance,USA
+Argentina,Javier Porta Fouz,La Nacion,Kevin Costner,Open Range,10,2003,action drama and romance,USA
+Chile,Ernesto Garratt,El Mercurio,Park Chan-wook,Oldboy,1,2003,action drama and mystery,South Korea
+Chile,Ernesto Garratt,El Mercurio,Alfonso Cuarón,Children of Men,2,2006,drama sci-Fi and thriller,Mexico
+Chile,Ernesto Garratt,El Mercurio,David Lynch,Mulholland Drive,3,2001,drama mystery and thriller,USA
+Chile,Ernesto Garratt,El Mercurio,Juan José Campanella,The Secret in Their Eyes,4,2009,crime drama mystery and thriller,Argentina
+Chile,Ernesto Garratt,El Mercurio,Denis Villeneuve,Sicario,5,2015,action thriller and drama,Canada
+Chile,Ernesto Garratt,El Mercurio,Pablo Larraín,No,6,2012,drama,Chile
+Chile,Ernesto Garratt,El Mercurio,Richard Kelly,Donnie Darko,7,2001,drama thriller and sci-fi ,USA
+Chile,Ernesto Garratt,El Mercurio,Michel Gondry,Eternal Sunshine of the Spotless Mind,8,2004,drama romance and sci-fi,France
+Chile,Ernesto Garratt,El Mercurio,David Fincher,The Social Network,9,2010,biography and drama,USA
+Chile,Ernesto Garratt,El Mercurio,Damien Chazelle,Whiplash,10,2014,drama and music,USA
+Colombia,Juan Carlos González,El Tiempo,Wong Kar-wai,In the Mood for Love,1,2000,drama and romance,China
+Colombia,Juan Carlos González,El Tiempo,Cristian Mungiu,"4 Months, 3 Weeks & 2 Days",2,2007,drama,Romania
+Colombia,Juan Carlos González,El Tiempo,Asghar Farhadi,A Separation,3,2011,drama and mystery,Iran
+Colombia,Juan Carlos González,El Tiempo,László Nemes,Son of Saul,4,2015,drama and war,Hungary
+Colombia,Juan Carlos González,El Tiempo,Gus Van Sant,Elephant,5,2003,crime drama and thriller,USA
+Colombia,Juan Carlos González,El Tiempo,Jacques Audiard,A Prophet,6,2009,crime and drama,France
+Colombia,Juan Carlos González,El Tiempo,Paul Thomas Anderson,There Will Be Blood,7,2007,drama,USA
+Colombia,Juan Carlos González,El Tiempo,Florian Henckel von Donnersmarck,The Lives of Others,8,2006,drama,Germany
+Colombia,Juan Carlos González,El Tiempo,Noah Baumbach,Frances Ha,9,2012,comedy drama and romance,USA
+Colombia,Juan Carlos González,El Tiempo,Michel Gondry,Eternal Sunshine of the Spotless Mind,10,2004,drama romance and sci-fi,France
+Colombia,Manuel Kalmanovitz,Revista Semana,Lucrecia Martel,The Headless Woman,1,2008,drama and mystery,Argentina
+Colombia,Manuel Kalmanovitz,Revista Semana,Hayao Miyazaki,Spirited Away,2,2001,animation adventure family fantasy and mystery,Japan
+Colombia,Manuel Kalmanovitz,Revista Semana,David Lynch,Mulholland Drive,3,2001,drama mystery and thriller,USA
+Colombia,Manuel Kalmanovitz,Revista Semana,Víctor Gaviria,Sumas y Restas,4,2004,drama,Colombia
+Colombia,Manuel Kalmanovitz,Revista Semana,Pete Docter,Inside Out,5,2015,animation adventure comedy drama family fantasy,USA
+Colombia,Manuel Kalmanovitz,Revista Semana,Agnès Varda,The Gleaners and I,6,2000,documentary,Belgium
+Colombia,Manuel Kalmanovitz,Revista Semana,Andrey Zvyagintsev,The Return,7,2003,drama and mystery,Russia
+Colombia,Manuel Kalmanovitz,Revista Semana,Philippe Garrel,Regular Lovers,8,2005,drama and romance,France
+Colombia,Manuel Kalmanovitz,Revista Semana,Jonathan Glazer,Under the Skin,9,2013,drama thriller and sci-fi,UK
+Colombia,Manuel Kalmanovitz,Revista Semana,Jean-Charles Fitoussi,The Days When I Do Not Exist,10,2002,drama and fantasy,France
+Cuba,Mario Naito López,Cuban Film Press Association,Wong Kar-wai,In the Mood for Love,1,2000,drama and romance,China
+Cuba,Mario Naito López,Cuban Film Press Association,Kim Ki-duk,"Spring, Summer, Fall, Winter…and Spring",2,2003,drama and romance,Korea
+Cuba,Mario Naito López,Cuban Film Press Association,David Cronenberg,A History of Violence,3,2005,drama and thriller,Canada
+Cuba,Mario Naito López,Cuban Film Press Association,Pedro Almodóvar,Talk to Her,4,2002,drama mystery and romance,Spain
+Cuba,Mario Naito López,Cuban Film Press Association,Todd Haynes,Carol,5,2015,drama and romance,USA
+Cuba,Mario Naito López,Cuban Film Press Association,Lars von Trier,Melancholia,6,2011,drama and sci-fi,Denmark
+Cuba,Mario Naito López,Cuban Film Press Association,Michael Haneke,The White Ribbon,7,2009,drama history mystery and thriller,Germany
+Cuba,Mario Naito López,Cuban Film Press Association,Andrey Zvyagintsev,The Return,8,2003,drama and mystery,Russia
+Cuba,Mario Naito López,Cuban Film Press Association,Jean-Pierre and Luc Dardenne,The Child,9,2005,crime and drama,Belgium
+Cuba,Mario Naito López,Cuban Film Press Association,Carlos Reygadas,Silent Light,10,2007
+Chile,Antonio Martínez,El Mercurio,Martin Scorsese,The Wolf of Wall Street,1,2013
+Chile,Antonio Martínez,El Mercurio,Joel and Ethan Coen,No Country For Old Men,2,2007,crime drama and thriller,USA
+Chile,Antonio Martínez,El Mercurio,Hayao Miyazaki,Spirited Away,3,2001,animation adventure family fantasy and mystery,Japan
+Chile,Antonio Martínez,El Mercurio,Clint Eastwood,Million Dollar Baby,4,2004,drama,USA
+Chile,Antonio Martínez,El Mercurio,Roman Polanski,The Ghost Writer,5,2010, drama mystery and thriller,France
+Chile,Antonio Martínez,El Mercurio,Nanni Moretti,The Son's Room,6,2001,drama,Italy
+Chile,Antonio Martínez,El Mercurio,David Cronenberg,A History of Violence,7,2005,drama and thriller,Canada
+Chile,Antonio Martínez,El Mercurio,Pedro Almodóvar,Talk to Her,8,2002,drama mystery and romance,Spain
+Chile,Antonio Martínez,El Mercurio,Sidney Lumet,Before the Devil Knows You're Dead,9,2007,crime,USA
+Chile,Antonio Martínez,El Mercurio,Woody Allen,Match Point,10,2005,drama,USA
+Cuba,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Jean-Luc Godard,Goodbye to Language,1,2014,drama and fantasy,France
+Cuba,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Pedro Costa,Colossal Youth,2,2006,drama,Portugal
+Cuba,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Béla Tarr and Ágnes Hranitzky,Werckmeister Harmonies,3,2000,drama and mystery,Hungary
+Cuba,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Leos Carax,Holy Motors,4,2012,drama and fantasy,France
+Cuba,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Apichatpong Weerasethakul,Uncle Boonmee Who Can Recall His Past Lives,5,2010,drama,Thailand
+Cuba,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Andrey Zvyagintsev,Leviathan,6,2014,crime and drama,Russia
+Cuba,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Miguel Gomes,Tabu,7,2012,drama and romance,Portugal
+Cuba,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Ben Rivers,The Sky Trembles and the Earth Is Afraid and the Two Eyes Are Not Brothers,8,2015,drama,UK
+Cuba,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Lav Diaz,From What Is Before,9,2014,drama,Philippines
+Cuba,Alberto Ramos Ruiz,La Habana International Festival of New Latin American Cinema,Pietro Marcello,Lost and Beautiful,10,2015,drama and fantasy,Italy
+Colombia,Mauricio Reina,El Tiempo,Julian Schnabel,The Diving Bell and the Butterfly,1,2007,drama,USA
+Colombia,Mauricio Reina,El Tiempo,Abdellatif Kechiche,Blue Is the Warmest Color,2,2013,drama and romance,Tunisia
+Colombia,Mauricio Reina,El Tiempo,Tomas Alfredson,Let the Right One In,3,2008,drama and horror,Sweden
+Colombia,Mauricio Reina,El Tiempo,Joshua Oppenheimer,The Act of Killing,4,2012,documentary and crime,USA
+Colombia,Mauricio Reina,El Tiempo,Guillermo Del Toro,Pan's Labyrinth,5,2006,drama fantasy and war,Mexico
+Colombia,Mauricio Reina,El Tiempo,Paul Thomas Anderson,There Will Be Blood,6,2007,drama,USA
+Colombia,Mauricio Reina,El Tiempo,Asghar Farhadi,A Separation,7,2011,drama and mystery,Iran
+Colombia,Mauricio Reina,El Tiempo,Jacques Audiard,A Prophet,8,2009,crime and drama,France
+Colombia,Mauricio Reina,El Tiempo,Andrew Stanton,WALL-E,9,2008,animation adventure family and sci-fi,USA
+Colombia,Mauricio Reina,El Tiempo,Neill Blomkamp,District 9,10,2009,sci-fi,South Africa
+Cuba,Antonio Mazón Robau,Cinemateca de Cuba,Wong Kar-wai,In the Mood for Love,1,2000,drama and romance,China
+Cuba,Antonio Mazón Robau,Cinemateca de Cuba,László Nemes,Son of Saul,2,2015,drama and war,Hungary
+Cuba,Antonio Mazón Robau,Cinemateca de Cuba,Kathryn Bigelow,The Hurt Locker,3,2008,drama,USA
+Cuba,Antonio Mazón Robau,Cinemateca de Cuba,Jacques Audiard,The Beat That My Heart Skipped,4,2005,crime drama and music,France
+Cuba,Antonio Mazón Robau,Cinemateca de Cuba,Fatih Akin,The Edge of Heaven,5,2007,drama,Germany
+Cuba,Antonio Mazón Robau,Cinemateca de Cuba,Ari Folman,Waltz with Bashir,6,2008,animation biography and drama,Israel
+Cuba,Antonio Mazón Robau,Cinemateca de Cuba,Park Chan-wook,Oldboy,7,2003,action drama and mystery,South Korea
+Cuba,Antonio Mazón Robau,Cinemateca de Cuba,Wolfgang Becker,Good Bye Lenin!,8,2003,comedy drama and romance,Germany
+Cuba,Antonio Mazón Robau,Cinemateca de Cuba,Paweł Pawlikowski,Ida,9,2013,drama,Poland
+Cuba,Antonio Mazón Robau,Cinemateca de Cuba,Denis Villeneuve,Incendies,10,2010,drama mystery and war,Canada
+Mexico,Fernanda Solórzano,Letras Libres Magazine,David Lynch,Mulholland Drive,1,2001,drama mystery and thriller,USA
+Mexico,Fernanda Solórzano,Letras Libres Magazine,László Nemes,Son of Saul,2,2015,drama and war,Hungary
+Mexico,Fernanda Solórzano,Letras Libres Magazine,Paweł Pawlikowski,Ida,3,2013,drama,Poland
+Mexico,Fernanda Solórzano,Letras Libres Magazine,Michel Gondry,Eternal Sunshine of the Spotless Mind,4,2004,drama romance and sci-fi,France
+Mexico,Fernanda Solórzano,Letras Libres Magazine,Michael Haneke,The White Ribbon,5,2009,drama history mystery and thriller,Germany
+Mexico,Fernanda Solórzano,Letras Libres Magazine,Hirokazu Koreeda,Still Walking,6,2008,drama,Japan
+Mexico,Fernanda Solórzano,Letras Libres Magazine,Joshua Oppenheimer,The Act of Killing,7,2012,documentary and crime,USA
+Mexico,Fernanda Solórzano,Letras Libres Magazine,Lars von Trier,Dogville,8,2003,crime and drama,Denmark
+Mexico,Fernanda Solórzano,Letras Libres Magazine,Alejandro González Iñárritu,Birdman,9,2014,comedy and drama,Mexico
+Mexico,Fernanda Solórzano,Letras Libres Magazine,Werner Herzog,Grizzly Man,10,2005,documentary and biography,Germany
